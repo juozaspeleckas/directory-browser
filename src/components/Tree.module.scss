@@ -1,0 +1,19 @@
+.directoryBrowserContainer {
+  display: block;
+  width: 50%;
+  margin: 5% 0 0 5%;
+}
+
+.directories {
+  border: 0.1em solid #AAAAAA;
+  border-radius: 1%;
+}
+.label {
+  font-size: 1.2em;
+  color: #001f3f;
+}
+
+.selectedNode {
+  font-size: 1.5em;
+  padding: 0.5em 0 0.5em 1em;
+}
